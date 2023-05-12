@@ -6,7 +6,7 @@
 </p>
   <h2 align="center">🙏🏻, I'm Bhushan Bhuskade! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p align="center">
-<!--   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Singh-csm?label=Followers&style=social"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/bhuskade1999?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/bhuskade1999?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
